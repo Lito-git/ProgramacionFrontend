@@ -123,4 +123,18 @@ export default {
     height: calc(100vh - 56px);
     background-color: white;
 }
+
+@media (max-width: 576px) {
+    .card-custom {
+        min-width: 90%;
+        min-height: auto;
+    }
+
+    .page-container {
+        height: auto;
+        padding: 20px 0;
+        margin-top: 7rem;
+    }
+
+}
 </style>
