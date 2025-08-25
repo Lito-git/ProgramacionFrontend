@@ -133,7 +133,7 @@ export default {
     .page-container {
         height: auto;
         padding: 20px 0;
-        margin-top: 7rem;
+        margin-top: 5rem;
     }
 
 }
